@@ -98,9 +98,6 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
-        <div>
-      <Button>Click me</Button>
-    </div>
       </footer>
     </div>
   );
